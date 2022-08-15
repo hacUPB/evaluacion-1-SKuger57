@@ -20,4 +20,5 @@ int main(int argc, char *argv[]){
     }while(status !=NULL);
     fclose(fin);
     exit(EXIT_SUCCESS);
+    // Comentario necesario por bug
 }
